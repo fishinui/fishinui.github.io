@@ -1,1 +1,5 @@
-p resizeimage img { width: 10%; }
+/* p resizeimage img { width: 10%; } */
+
+.center {
+    text-align: center;
+}
